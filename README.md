@@ -6,3 +6,5 @@ With 1xK80 GPU virtual machine in azure, it took around 8 hours to complete 2800
 
 
 Now i got the new pokemon. This is also how you generate fake images when you don't have enough data.
+
+![Result](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/257a6ae2-ac8e-460a-8b54-b2c401031a09/0546347c-0645-4e50-b117-b80aaee846c5/images/screenshot.png)
